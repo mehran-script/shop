@@ -14,10 +14,24 @@ body{
 
 
 #banner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     background-color: aquamarine;
 }
 
 
 #content{
     background-color: blueviolet;
+}   
+
+
+h1{
+    cursor: pointer;
+
+}
+
+h1:hover{
+    color: rgb(41, 35, 199);
 }
