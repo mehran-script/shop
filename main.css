@@ -10,7 +10,14 @@ body{
 
 #navbar{
     background-color: yellow;
+}
+
 
 #banner{
     background-color: aquamarine;
+}
+
+
+#content{
+    background-color: blueviolet;
 }
