@@ -13,13 +13,7 @@ body{
 }
 
 
-#banner{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    background-color: rgb(127, 255, 172);
-}
+
 
 
 #content{
