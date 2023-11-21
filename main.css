@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: rgb(18, 18, 18)91, 186, 186;
+    background-color: rgb(16, 16, 16);
 }
 
 #navbar{
@@ -13,11 +13,19 @@ body{
 }
 
 
-#banner{
-    background-color: aquamarine;
-}
+
 
 
 #content{
     background-color: blueviolet;
+}   
+
+
+h1{
+    cursor: pointer;
+
+}
+
+h1:hover{
+    color: rgb(41, 35, 199);
 }
